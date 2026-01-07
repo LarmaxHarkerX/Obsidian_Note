@@ -59,7 +59,7 @@ $$\mathcal{L}_{SM} = \underbrace{ -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} }_{\text{Ga
 
 $$\mathbf{A} = \begin{pmatrix} \frac{\partial^2 f}{\partial x^2} & \frac{\partial^2 f}{\partial x \partial y} \\ \frac{\partial^2 f}{\partial y \partial x} & \frac{\partial^2 f}{\partial y^2} \end{pmatrix} \implies \det(\mathbf{A} - \lambda \mathbf{I}) = \sum_{k=0}^{n} \alpha_k \lambda^k = \int_{-\infty}^{\infty} e^{-\beta x^2} dx$$
 
-已知勾股定理的表达式为 $a^2 + b^2 = c^2$，而欧拉公式则是被誉为数学中最美的公式：$e^{i\pi} + 1 = 0$
+已知勾股定理的表达式为 $a^2 + b^2 = c^2$，而欧拉公式则是被誉为数学中最美的公式： $e^{i\pi} + 1 = 0$
 
 ## 警告与提示框 (Alerts)
 
