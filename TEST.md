@@ -5,11 +5,14 @@
 
 ## 思维导图
 
-Mindmap
-  Root ((Obsidian 学习))
+```mermaid
+mindmap
+  root((Obsidian 学习))
     双向链接
     标签系统
     插件生态
       核心插件
       第三方插件
+```
+
 
