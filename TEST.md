@@ -57,7 +57,18 @@ pie title 程序员的一天时间分配
 $$\mathcal{L}_{SM} = \underbrace{ -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} }_{\text{Gauge terms}} + \underbrace{ i \bar{\psi} \cancel{D} \psi }_{\text{Matter terms}} + \underbrace{ (D_\mu \phi)^\dagger (D^\mu \phi) - V(\phi) }_{\text{Higgs terms}} + \underbrace{ \bar{\psi}_i Y_{ij} \psi_j \phi + \text{h.c.} }_{\text{Yukawa coupling}}$$
 
 
-$$\mathbf{A} = \begin{pmatrix} \frac{\partial^2 f}{\partial x^2} & \frac{\partial^2 f}{\partial x \partial y} \\ \frac{\partial^2 f}{\partial y \partial x} & \frac{\partial^2 f}{\partial y^2} \end{pmatrix} \implies \det(\mathbf{A} - \lambda \mathbf{I}) = \sum_{k=0}^{n} \alpha_k \lambda^k = \int_{-\infty}^{\infty} e^{-\beta x^2} dx$$
+$$
+\mathbf{A}=
+\begin{bmatrix}
+\dfrac{\partial^2 f}{\partial x^2} & \dfrac{\partial^2 f}{\partial x\,\partial y}\\
+\dfrac{\partial^2 f}{\partial y\,\partial x} & \dfrac{\partial^2 f}{\partial y^2}
+\end{bmatrix}
+\implies
+\det(\mathbf{A}-\lambda\mathbf{I})
+= \lambda^2-(\operatorname{tr}\mathbf{A})\lambda+\det(\mathbf{A}),
+\qquad
+\int_{-\infty}^{\infty} e^{-\beta x^2}\,dx=\sqrt{\frac{\pi}{\beta}}\;(\beta>0).
+$$
 
 已知勾股定理的表达式为 $a^2 + b^2 = c^2$，而欧拉公式则是被誉为数学中最美的公式： $e^{i\pi} + 1 = 0$
 
