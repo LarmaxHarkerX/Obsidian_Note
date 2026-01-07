@@ -65,7 +65,7 @@ $$
 \end{bmatrix}
 \implies
 \det(\mathbf{A}-\lambda\mathbf{I})
-= \lambda^2-(\operatorname{tr}\mathbf{A})\lambda+\det(\mathbf{A}),
+= \lambda^2-(\mathrm{tr}\,\mathbf{A})\lambda+\det(\mathbf{A}),
 \qquad
 \int_{-\infty}^{\infty} e^{-\beta x^2}\,dx=\sqrt{\frac{\pi}{\beta}}\;(\beta>0).
 $$
