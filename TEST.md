@@ -185,9 +185,13 @@ GitHub 会对某些特定格式的文件进行**自动图形化渲染**：
 
 这在记录化学公式或数学指数时非常有用。
 
-- **下标**：`H~2~O` (Obsidian) 或 `H<sub>2</sub>O` (GitHub/HTML)。
-    
-- **上标**：`X^2^` (Obsidian) 或 `X<sup>2</sup>` (GitHub/HTML)。
+代码：`H<sub>2</sub>O`  
+效果：H<sub>2</sub>O
+
+代码：`x<sup>2</sup>`  
+效果：x<sup>2</sup>
+
 
 ## 颜色预览 (Color Previews)
-**示例**：使用 `` `#0969DA` `` 会在文字旁显示对应的蓝色块。#0969DA
+![#0969DA](https://via.placeholder.com/12/0969DA/0969DA.png) `#0969DA`
+
