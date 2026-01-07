@@ -139,6 +139,8 @@ GitHub 会对某些特定格式的文件进行**自动图形化渲染**：
 - **GeoJSON / TopoJSON**：自动渲染成交互式地图。
     
 - **CSV 数据**：直接以整齐的表格形式展示数据，而不是纯文本。
+[在 GitHub 里查看 3D 模型（GLB）](https://github.com/LarmaxHarkerX/Obsidian_Images/blob/main/image/monkey.glb)
+
 
 ## 表情包 (Emojis)
 直接输入 `:emoji_name:` 即可
