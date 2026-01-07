@@ -54,7 +54,13 @@ pie title 程序员的一天时间分配
 
 
 ## Latex 公式
-$$\mathcal{L}_{SM} = \underbrace{ -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} }_{\text{Gauge terms}} + \underbrace{ i \bar{\psi} \cancel{D} \psi }_{\text{Matter terms}} + \underbrace{ (D_\mu \phi)^\dagger (D^\mu \phi) - V(\phi) }_{\text{Higgs terms}} + \underbrace{ \bar{\psi}_i Y_{ij} \psi_j \phi + \text{h.c.} }_{\text{Yukawa coupling}}$$
+$$
+\mathcal{L}_{SM} =
+\underbrace{-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}}_{\text{Gauge terms}}
++\underbrace{i\bar{\psi}\,\not{D}\,\psi}_{\text{Matter terms}}
++\underbrace{(D_\mu\phi)^\dagger(D^\mu\phi)-V(\phi)}_{\text{Higgs terms}}
++\underbrace{\bar{\psi}_i Y_{ij}\psi_j\phi+\text{h.c.}}_{\text{Yukawa coupling}}
+$$
 
 
 $$
