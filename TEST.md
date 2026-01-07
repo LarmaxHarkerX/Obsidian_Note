@@ -144,3 +144,50 @@ GitHub 会对某些特定格式的文件进行**自动图形化渲染**：
 直接输入 `:emoji_name:` 即可
 
 :rocket:
+
+## 角注
+这里是一句话，后面放一个角注标记。[^1]
+
+也可以在同一段里放多个角注：[^note] [^2]
+
+[^1]: 这是第一个角注内容。可以写很长，也可以放链接或代码。
+[^note]: 这是一个带名字的角注（标签是 note）。
+[^2]: 这是第二个角注。
+
+## 代码差异显示
+``` diff
+- console.log("Hello, old world!");
++ console.log("Hello, new world!");
+
+  function add(a, b) {
+-   return a - b;
++   return a + b;
+  }
+
+```
+
+## 表格对齐
+| 名称   | 等级 | 分数 |
+|:------|:---:|-----:|
+| Alice | A   |   98 |
+| Bob   | B   |   85 |
+| Carol | A+  |  100 |
+
+对齐规则速记：
+
+- `:---` 左对齐
+    
+- `:---:` 居中对齐
+    
+- `---:` 右对齐
+
+## 上标与下标 (Subscript & Superscript)
+
+这在记录化学公式或数学指数时非常有用。
+
+- **下标**：`H~2~O` (Obsidian) 或 `H<sub>2</sub>O` (GitHub/HTML)。
+    
+- **上标**：`X^2^` (Obsidian) 或 `X<sup>2</sup>` (GitHub/HTML)。
+
+## 颜色预览 (Color Previews)
+**示例**：使用 `` `#0969DA` `` 会在文字旁显示对应的蓝色块。`#0969DA`
