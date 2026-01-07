@@ -6,3 +6,5 @@
 2026 年希望会顺利一些
 
 ![cat-ruffles.gif](https://raw.githubusercontent.com/LarmaxHarkerX/Obsidian_Images/main/image/cat-ruffles.gif)
+
+![image.png](https://raw.githubusercontent.com/LarmaxHarkerX/Obsidian_Images/main/image/20260107132241847.png)
