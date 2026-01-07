@@ -193,5 +193,4 @@ GitHub 会对某些特定格式的文件进行**自动图形化渲染**：
 
 
 ## 颜色预览 (Color Previews)
-![#0969DA](https://via.placeholder.com/12/0969DA/0969DA.png) `#0969DA`
-
+有 bug
